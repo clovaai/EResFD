@@ -1,0 +1,15 @@
+Opencv-python == 3.4.3.18
+matplotlib == 2.2.2
+NumPy >= 1.14.5
+scikit-learn >= 0.19.1
+easydict >= 1.9
+seaborn >= 0.9.0
+torchstat >= 0.0.7
+pillow
+tqdm
+scipy
+thop
+torch >= 1.7.1
+torchvision == 0.8.2
+requests == 2.21.0
+adamp
