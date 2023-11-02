@@ -1,7 +1,14 @@
-## EResFD ##
-A PyTorch Implementation of "[Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection](https://arxiv.org/abs/2204.01209)", a real-time CPU face detector EResFD.
+# EResFD (WACV 2024)
+EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection, a real-time CPU face detector.
 
-Joonhyun Jeong, Beomyoung Kim, Joonsang Yu, Youngjoon Yoo
+[Joonhyun Jeong](https://bestdeveloper691.github.io/)<sup>1,2</sup>, [Beomyoung Kim](https://beomyoung-kim.github.io/)<sup>1,2</sup>, [Joonsang Yu](https://scholar.google.co.kr/citations?user=IC6M7_IAAAAJ&hl=ko)<sup>1,3</sup>, [YoungJoon Yoo](https://yjyoo3312.github.io/)<sup>1</sup><br>
+
+<sup>1</sup> <sub>NAVER Cloud, ImageVision</sub><br />
+<sup>2</sup> <sub>KAIST</sub><br />
+<sup>3</sup> <sub>NAVER AI Lab</sub><br />
+
+[![](https://img.shields.io/badge/WACV-2023-blue)](https://wacv2024.thecvf.com)
+[![Paper](https://img.shields.io/badge/Paper-arxiv.2204.01209-red)](https://arxiv.org/abs/2204.01209)
 
 ### Performance
 <div align="center">
@@ -39,6 +46,18 @@ python3 demo.py --model ./weights/eresfd_16.pth
 <img src="tmp/0_Parade_marchingband_1_20.jpg" height="500px" alt="demo" >
 <img src="tmp/0_Parade_marchingband_1_234.jpg" height="500px" alt="demo" >
 </div>
+
+### Citation
+If you find that this project helps your research, please consider citing as below:
+
+```
+@article{jeong2022eresfd,
+  title={EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection},
+  author={Jeong, Joonhyun and Kim, Beomyoung and Yu, Joonsang and Yoo, Youngjoon},
+  journal={arXiv preprint arXiv:2204.01209},
+  year={2022}
+}
+```
 
 ### License
 
