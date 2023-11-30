@@ -7,8 +7,9 @@ EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight
 <sup>2</sup> <sub>KAIST</sub><br />
 <sup>3</sup> <sub>NAVER AI Lab</sub><br />
 
-[![](https://img.shields.io/badge/WACV-2023-blue)](https://wacv2024.thecvf.com)
+[![](https://img.shields.io/badge/WACV-2024-blue)](https://wacv2024.thecvf.com)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2204.01209-red)](https://arxiv.org/abs/2204.01209)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-VIDEO-red)](https://www.youtube.com/watch?v=Ir93_4nzk0Y)
 
 ### Performance
 <div align="center">
